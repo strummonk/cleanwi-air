@@ -67,6 +67,7 @@ Vehicle emissions are the greatest sector for emissions in Wisconsin, Fuel Evapo
 Diesel particle pollution is emitted from the combustion of diesel fuel. Passenger vehicles, construction equipment, buses, and trucks can all be contributors. In the City of Milwaukee, diesel particle pollution levels  are highly concentrated at the Lake, Marquette and Hillside Interchanges.
 
 ![Top census tracts](https://strummonk.github.io/cap-toptracts/docs/)
+
 Wind currents from Lake Michigan push air inland, and pressure and temperature changes trap polluted air close to the ground. Census tracts with the highest average reported pollution levels are clustered inland around I-43 at Locust St and west along Lisbon Ave in the Harambee, Lindsay Heights, Midtown and Old Bronzeville neighborhoods. Nitrogen dioxide levels in these tracts are particularly high. 
 
 ##Hazardous Air Pollutants
@@ -75,7 +76,9 @@ Both criteria air pollutants and hazardous air pollutants, or air toxics, make u
 
 <!--Embed-->
 [https://www.cleanwisconsin.org/hazardous-air-pollutants-environmental-justice-in-wisconsin/]
+
 Title: Hazardous Air Pollutants & Environmental Justice in Wisconsin
+
 Subtitle: Click the link to read Clean Wisconsin’s health brief about HAPs.
 <!--Embed-->
 
@@ -87,19 +90,19 @@ There are two main types of air pollutants. Criteria air pollutants and hazardou
 
 Both criteria air pollutants and hazardous air pollutants are in the air we breathe everyday. Living or working near factories or heavy traffic increases your exposure to air pollution. Beyond proximity to pollution sources,  certain demographics are more at risk of health impacts that others.  Groups that most at risk for health impacts from air pollutant exposure are children, older adults, and Black Americans. 
 
-[!Health Risk Map, Top Asthma](https://strummonk.github.io/health-asthma-mke/docs/)
+![Health Risk Map, Top Asthma](https://strummonk.github.io/health-asthma-mke/docs/)
 
 According to the Wisconsin Asthma Coalition, 1 in 11 adults and 1 in 12 children have asthma. Black children are the most likely group to be hospitalized due to asthma. In 2018, of those who died of asthma, 39% were 65 and older. Over a quarter of adults reported that they were unable to work due to their asthma in the same year. Over half of employed Wisconsin adults with asthma reported that their asthma was caused, or made worse by, exposures at work. There is no cure for asthma, but it can be controlled by avoiding the triggers that can cause an attack, such as mold, smoke, and pollution.
 
-[!Health Risk Map, Race and Asthma Overlay](https://strummonk.github.io/health-asthma-race-mke/docs/)
+![Health Risk Map, Race and Asthma Overlay](https://strummonk.github.io/health-asthma-race-mke/docs/)
 
 In Milwaukee, asthma rates for the entire county are most prevalent in the predominantly black Milwaukee neighborhoods of Lindsay Heights, Granville, Amani and Franklin Heights. 
 
-[!Health Risk Map, Top CHD and COPD](https://strummonk.github.io/health-copd-chd-mke/docs/)
+![Health Risk Map, Top CHD and COPD](https://strummonk.github.io/health-copd-chd-mke/docs/)
 
 Older adults are less able to endure the effects of air pollution. Poor air quality worsens the health of older adults with coronary heart disease and lung diseases, such as COPD and asthma, leading to increased hospitalization and emergency room visits. 
 
-[!Health Risk Map, older adults and top CHD and COPD overlay\](https://strummonk.github.io/health-copd-chd-age-mke/docs/)
+![Health Risk Map, older adults and top CHD and COPD overlay\](https://strummonk.github.io/health-copd-chd-age-mke/docs/)
 
 PM2.5 has been linked to premature death, cardiac arrhythmia and heart attacks, asthma attacks, and the development of chronic bronchitis. Ozone, even at low levels, can worsen respiratory diseases. Heart disease is the leading cause of death for adults over 65 in Milwaukee County.(Wisconsin Department of Health Services) Wisconsin has an aging population, The U.S. Census Bureau estimates that nearly 26 percent of Wisconsin’s population will be 60 and older by the year 2030, or about 1.3 million people.
 
@@ -113,8 +116,8 @@ Air quality regulations safeguard environmental and human health. Air quality st
 
 A standard does not necessarily mean a healthy limit. In 2015, organizations like the American Lung Association , the American Academy of Pediatrics and Medical Advocates for Healthy Air advocated for stricter standards for ground level ozone. The national regulatory standard for unhealthy ozone levels in the atmosphere is 70 parts per billion (ppb). The maps below compare the current standard to the proposed standard of 60ppb. Advocates argued that health effects from ozone pollution are impactful at levels below the current standard. 
 
-[!Ozone 70ppb map](o-seventy.png)
-[!Ozone 60ppb map](o-sixty.png)
+![Ozone 70ppb map](o-seventy.png)
+![Ozone 60ppb map](o-sixty.png)
 
 The map of the 70ppb standard shows ozone reached unhealthy levels relatively infrequently. At most, ozone is at unhealthy levels an average of eight days over a three year period. When the 60ppb standard is used, daily ozone concentrations reaches unhealthy levels twice as many days or more over the same period. Both maps show proximity to Lake Michigan increases the likelihood of days with high ozone concentration.  
 Under the proposed 60ppb standard, air quality for sensitive populations would be considered unhealthy on moderate code yellow days on the Air Quality Index. Reducing exposure risk is about prevention, and a lower standard would allow everyone to make more informed decisions about their exposure risk. Still, the best way to reduce exposure risk is to clean the air. 
@@ -123,11 +126,11 @@ Under the proposed 60ppb standard, air quality for sensitive populations would b
 
 Pollutants released from vehicles are referred to as tailpipe emissions. In July of 2026, Governor Evers announced a new policy that would require the state to purchase electric for new light-duty vehicles. Light-duty vehicles includes passenger vehicles, buses, and commercial trucks. Electric vehicles have the benefit of zero tailpipe emissions. The Clean Fleet Policy seeks to decrease tailpipe emissions by increasing the amount of electric vehicles on the road.
 
-[!nitrogen oxide emissions share in milwaukee county](treemap_nitrogenoxide.png)
+![nitrogen oxide emissions share in milwaukee county](treemap_nitrogenoxide.png)
 
 The chart above shows nitrogen oxide emissions in Milwaukee County. Although passenger vehicles emit a significant share of tailpipe emissions, heavy-duty vehicles make up the greater share of tailpipe emissions on the road. Heavy-duty vehicles are not regulated under the Clean Fleet Policy. 
 
-[!Vehicle kilometers traveled map](vkt_map.png)
+![Vehicle kilometers traveled map](vkt_map.png)
 
 An increase in vehicle energy efficiency is not a perfect solution for reducing emissions. Distance traveled is another factor in pollutant concentration. An increase in daily distance traveled per area results in an increase in tailpipe emissions. In Milwaukee County, the greatest distance traveled is concentrated around highly populated cities and major highways. Exposure to tailpipe emissions will be higher in areas where distance traveled is greatest, regardless of the fuel efficiency of some vehicles.
 
@@ -140,11 +143,13 @@ Everyone can take action for better health. Being aware of daily air quality and
 ##Air Quality Index
 Checking air quality conditions is s simple as checking the weather forecast. Air quality is measured using the Air Quality Index (AQI), a color coded scale that reports levels of criteria air pollutants by zip code. The higher the AQI value, the greater the level of air pollution, and the greater the health concern. AQI values at or below 100 are considered satisfactory. AQI values above 100 are considered unhealthy. Children, older adults, and those with health conditions are at a greater risk at lower levels of the scale.
 
-[!Diagram of Air Quality Index](aqi-diagram.png)
+![Diagram of Air Quality Index](aqi-diagram.png)
 
 <!-- Embed -->
 [https://www.airnow.gov/?]
+
 Title: EPA’s AirNow
+
 subtitle: Make checking the AQI a daily habit. The EPA’s AirNow, available by web and app, reports air quality levels by zip code. 
 <!-- Embed -->
 
