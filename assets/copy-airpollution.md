@@ -50,23 +50,23 @@ Ground-level ozone (O3), known as smog, is formed by the reaction between sunlig
 
 Nitrogen oxides are combustion byproducts, primarily released from vehicle emissions. Nitrogen dioxide (NO2) is a criteria pollutant under the nitrogen oxide pollutant class. Nitrogen dioxide is a contributor to ground-level ozone and  tends to be highest near heavily traveled roadways. In the home, appliances such as stoves, dryers and space heaters that run on gas can produce unhealthy amounts of NO2 if appliances are not properly vented outdoors. 
 
-![Air Quality Data Map](https://strummonk.github.io/cap-map/docs/)
+![Air Quality Data Map][https://strummonk.github.io/cap-map/docs/]
 
 Each pollutant has its own regulatory standard and monitoring period. For example,  PM2.5 and PM10 are reported every twenty-four hours, and the regulatory standard for each is 35ug/m3. Ozone levels are reported every eight hours, and the regulatory standard is 70ppb (parts per billion).
 
-![Air Quality Map Ozone Layer Only](https://strummonk.github.io/cap-ozone/docs/)
+![Air Quality Map Ozone Layer Only][https://strummonk.github.io/cap-ozone/docs/]
 
 In Milwaukee County, high ozone level days tend to be greatest along Lake Michigan. Ozone levels typically rise when temperature is warm.  We’re most likely to see high ozone level days during the hottest months of the year, between May and September.
 
-![DPM only](https://strummonk.github.io/cap-dpm-full/docs/)
+![DPM only][https://strummonk.github.io/cap-dpm-full/docs/]
 
 Vehicle emissions are the greatest sector for emissions in Wisconsin, Fuel Evaporation and combustion releases volatile organic compounds, nitrogen dioxide and diesel particle pollution. Vehicle and equipment are considered mobile source pollution.
 
-![Zoom into DPM concentration area](https://strummonk.github.io/cap-dpm-full/docs/)
+![Zoom into DPM concentration area][https://strummonk.github.io/cap-dpm-full/docs/]
 
 Diesel particle pollution is emitted from the combustion of diesel fuel. Passenger vehicles, construction equipment, buses, and trucks can all be contributors. In the City of Milwaukee, diesel particle pollution levels  are highly concentrated at the Lake, Marquette and Hillside Interchanges.
 
-![Top census tracts](https://strummonk.github.io/cap-toptracts/docs/)
+![Top census tracts][https://strummonk.github.io/cap-toptracts/docs/]
 
 Wind currents from Lake Michigan push air inland, and pressure and temperature changes trap polluted air close to the ground. Census tracts with the highest average reported pollution levels are clustered inland around I-43 at Locust St and west along Lisbon Ave in the Harambee, Lindsay Heights, Midtown and Old Bronzeville neighborhoods. Nitrogen dioxide levels in these tracts are particularly high. 
 
@@ -90,15 +90,15 @@ There are two main types of air pollutants. Criteria air pollutants and hazardou
 
 Both criteria air pollutants and hazardous air pollutants are in the air we breathe everyday. Living or working near factories or heavy traffic increases your exposure to air pollution. Beyond proximity to pollution sources,  certain demographics are more at risk of health impacts that others.  Groups that most at risk for health impacts from air pollutant exposure are children, older adults, and Black Americans. 
 
-![Health Risk Map, Top Asthma](https://strummonk.github.io/health-asthma-mke/docs/)
+![Health Risk Map, Top Asthma][https://strummonk.github.io/health-asthma-mke/docs/]
 
 According to the Wisconsin Asthma Coalition, 1 in 11 adults and 1 in 12 children have asthma. Black children are the most likely group to be hospitalized due to asthma. In 2018, of those who died of asthma, 39% were 65 and older. Over a quarter of adults reported that they were unable to work due to their asthma in the same year. Over half of employed Wisconsin adults with asthma reported that their asthma was caused, or made worse by, exposures at work. There is no cure for asthma, but it can be controlled by avoiding the triggers that can cause an attack, such as mold, smoke, and pollution.
 
-![Health Risk Map, Race and Asthma Overlay](https://strummonk.github.io/health-asthma-race-mke/docs/)
+![Health Risk Map, Race and Asthma Overlay][https://strummonk.github.io/health-asthma-race-mke/docs/]
 
 In Milwaukee, asthma rates for the entire county are most prevalent in the predominantly black Milwaukee neighborhoods of Lindsay Heights, Granville, Amani and Franklin Heights. 
 
-![Health Risk Map, Top CHD and COPD](https://strummonk.github.io/health-copd-chd-mke/docs/)
+![Health Risk Map, Top CHD and COPD][https://strummonk.github.io/health-copd-chd-mke/docs/]
 
 Older adults are less able to endure the effects of air pollution. Poor air quality worsens the health of older adults with coronary heart disease and lung diseases, such as COPD and asthma, leading to increased hospitalization and emergency room visits. 
 
