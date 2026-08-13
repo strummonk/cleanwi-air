@@ -4,7 +4,7 @@ AIR POLLUTION
 Summary: Clean air is critical to good health. Reducing pollution exposure is the best thing you can do for your health and your loved ones.
 
 > [!Navigation] <br>
-> **Air Pollutants** **Our Health** **Regulation** **What You Can Do** <!--These correspond to H1 headings-->
+> **Air Pollutants**  **Our Health**  **Regulation**  **What You Can Do** <!--These correspond to H1 headings-->
  
 Description: Health risks from air pollutants can change based on who you are, where you live, and your proximity to point sources of air pollution. Exposure to different pollutants is associated with increases in risk to different health conditions, most of which affect the respiratory system. Industrial plants, construction projects, and road traffic are major point sources of air pollution. Knowing your exposure risks and and how to reduce and prevent pollution exposure is the best thing you can do for the health of yourself and your loved ones. 
 
@@ -26,7 +26,8 @@ Six air pollutants are regulated by the EPA under the National Ambient Air Quali
 
 ### Particulate Matter (PM)
 
-- Point Source - Nonpoint Source
+- Point Source
+- Nonpoint Source
 Particulate matter is measured in micrometers, the two types of particulate matter, PM10 and PM2.5, are named for their size in micrometers. Both are invisible to the human eye. 
 
 ![PARTICLE SIZE DIAGRAM](micron-long.png) 
@@ -39,7 +40,8 @@ Diesel Particulate Matter (DPM) is a type of particle pollution made up of heavy
 
 ### Ground Level Ozone (O3)
 
-- Point Source - Nonpoint Source
+- Point Source
+- Nonpoint Source
 
 Ground-level ozone (O3), known as smog, is formed by the reaction between sunlight and two pollutant classes, volatile organic compounds and nitrogen oxides. As the weather heats up during the summer months, O3 increases as pollutants react to heat and sunlight and chemical reactions speed up. Volatile organic compounds are released as vaporous fumes from everyday chemicals like gasoline, paint, pesticides, and solvents. 
 
@@ -52,20 +54,23 @@ Ground-level ozone (O3), known as smog, is formed by the reaction between sunlig
 Nitrogen oxides are combustion byproducts, primarily released from vehicle emissions. Nitrogen dioxide (NO2) is a criteria pollutant under the nitrogen oxide pollutant class. Nitrogen dioxide is a contributor to ground-level ozone and  tends to be highest near heavily traveled roadways. In the home, appliances such as stoves, dryers and space heaters that run on gas can produce unhealthy amounts of NO2 if appliances are not properly vented outdoors. 
 
 [Air Quality Data Map](https://strummonk.github.io/cap-map/docs/)
-![includes static map](air-quality-static.png) 
+![Static Map](cap_overall_static.png) 
 
 
 Each pollutant has its own regulatory standard and monitoring period. For example,  PM2.5 and PM10 are reported every twenty-four hours, and the regulatory standard for each is 35ug/m3. Ozone levels are reported every eight hours, and the regulatory standard is 70ppb (parts per billion).
 
-![Air Quality Map Ozone Layer Only][https://strummonk.github.io/cap-ozone/docs/]
+[Map Ozone Layer Only](https://strummonk.github.io/cap-ozone/docs/)
+![Static Map](cap_ozone_static.png)
 
 In Milwaukee County, high ozone level days tend to be greatest along Lake Michigan. Ozone levels typically rise when temperature is warm.  We’re most likely to see high ozone level days during the hottest months of the year, between May and September.
 
-![DPM only][https://strummonk.github.io/cap-dpm-full/docs/]
+[Map DPM only](https://strummonk.github.io/cap-dpm-full/docs/)
+![Static Map](cap_dpm_static.png)
 
 Vehicle emissions are the greatest sector for emissions in Wisconsin, Fuel Evaporation and combustion releases volatile organic compounds, nitrogen dioxide and diesel particle pollution. Vehicle and equipment are considered mobile source pollution.
 
-![Zoom into DPM concentration area][https://strummonk.github.io/cap-dpm-full/docs/]
+[DPM Detail Map](https://strummonk.github.io/cap-dpm-full/docs/) 
+![Static Map](cap_dpm-detail_static.png)
 
 Diesel particle pollution is emitted from the combustion of diesel fuel. Passenger vehicles, construction equipment, buses, and trucks can all be contributors. In the City of Milwaukee, diesel particle pollution levels  are highly concentrated at the Lake, Marquette and Hillside Interchanges.
 
