@@ -75,7 +75,7 @@ Vehicle emissions are the greatest sector for emissions in Wisconsin, Fuel Evapo
 
 Diesel particle pollution is emitted from the combustion of diesel fuel. Passenger vehicles, construction equipment, buses, and trucks can all be contributors. In the City of Milwaukee, diesel particle pollution levels  are highly concentrated at the Lake, Marquette and Hillside Interchanges.
 
-[Top census tracts](https://strummonk.github.io/cap-toptracts/docs/)
+[Top census tracts](https://strummonk.github.io/cap-toptracts/docs/) <br>
 ![Top Census Tracts](cap_toptracts_static.png)
 
 Wind currents from Lake Michigan push air inland, and pressure and temperature changes trap polluted air close to the ground. Census tracts with the highest average reported pollution levels are clustered inland around I-43 at Locust St and west along Lisbon Ave in the Harambee, Lindsay Heights, Midtown and Old Bronzeville neighborhoods. Nitrogen dioxide levels in these tracts are particularly high. 
