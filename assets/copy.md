@@ -3,7 +3,7 @@ AIR POLLUTION
 
 Summary: Clean air is critical to good health. Reducing pollution exposure is the best thing you can do for your health and your loved ones.
 
-> [!Navigation] 
+> [!Navigation] <br>
 > **Air Pollutants** **Our Health** **Regulation** **What You Can Do** <!--These correspond to H1 headings-->
  
 Description: Health risks from air pollutants can change based on who you are, where you live, and your proximity to point sources of air pollution. Exposure to different pollutants is associated with increases in risk to different health conditions, most of which affect the respiratory system. Industrial plants, construction projects, and road traffic are major point sources of air pollution. Knowing your exposure risks and and how to reduce and prevent pollution exposure is the best thing you can do for the health of yourself and your loved ones. 
