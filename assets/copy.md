@@ -70,26 +70,24 @@ In Milwaukee County, high ozone level days tend to be greatest along Lake Michig
 
 Vehicle emissions are the greatest sector for emissions in Wisconsin, Fuel Evaporation and combustion releases volatile organic compounds, nitrogen dioxide and diesel particle pollution. Vehicle and equipment are considered mobile source pollution.
 
-[DPM Detail Map](https://strummonk.github.io/cap-dpm-full/docs/) 
 ![Static Map](cap_dpm-detail_static.png)
+[DPM Detail Map](https://strummonk.github.io/cap-dpm/docs/) 
 
 Diesel particle pollution is emitted from the combustion of diesel fuel. Passenger vehicles, construction equipment, buses, and trucks can all be contributors. In the City of Milwaukee, diesel particle pollution levels  are highly concentrated at the Lake, Marquette and Hillside Interchanges.
 
-![Top census tracts][https://strummonk.github.io/cap-toptracts/docs/]
+[Top census tracts](https://strummonk.github.io/cap-toptracts/docs/)
+![Top Census Tracts](cap_toptracts_static.png)
 
 Wind currents from Lake Michigan push air inland, and pressure and temperature changes trap polluted air close to the ground. Census tracts with the highest average reported pollution levels are clustered inland around I-43 at Locust St and west along Lisbon Ave in the Harambee, Lindsay Heights, Midtown and Old Bronzeville neighborhoods. Nitrogen dioxide levels in these tracts are particularly high. 
 
 ## Hazardous Air Pollutants
+
 Both criteria air pollutants and hazardous air pollutants, or air toxics, make up the air we breathe. Exposure to air toxics comes from breathing contaminated air, ingesting contaminated water or fish, and through skin contact with contaminated soil, dust or water. There are over 100 pollutants classified as air toxics. These pollutants originate from outdoor sources like vehicles, and indoor sources like building materials and cleaning products. Primary emitters of air toxics are coal-fired power plants and factory smokestacks. Hazardous air pollutant emissions are reported by emitting facilities, but they are not regulated under national air quality standards.
 
-
-<!--Embed-->
-[Clean WI](https://www.cleanwisconsin.org/hazardous-air-pollutants-environmental-justice-in-wisconsin/)
-
-Title: Hazardous Air Pollutants & Environmental Justice in Wisconsin
-
-Subtitle: Click the link to read Clean Wisconsin’s health brief about HAPs.
-<!--Embed-->
+> [!Embed]
+> [Clean WI](https://www.cleanwisconsin.org/hazardous-air-pollutants-environmental-justice-in-wisconsin/)
+> Title: Hazardous Air Pollutants & Environmental Justice in Wisconsin
+> Subtitle: Click the link to read Clean Wisconsin's health brief about HAPs.
 
 Hazardous air pollutants are known or suspected to cause cancer, birth defects, and damage to the immune, reproductive and respiratory systems. Mercury is a toxic air pollutant often found in contaminated fish and released from burning coal. Mercury never leaves the body once ingested or inhaled.  Other air toxics to be aware of include asbestos, formaldehyde, and lead compounds.
 
@@ -102,12 +100,10 @@ Air quality regulations safeguard environmental and human health. Air quality st
 
 ## Safer Standards
 
-[[ozone-revisions.md]]
-
 A standard does not necessarily mean a healthy limit. In 2015, organizations like the American Lung Association , the American Academy of Pediatrics and Medical Advocates for Healthy Air advocated for stricter standards for ground level ozone. The national regulatory standard for unhealthy ozone levels in the atmosphere is 70 parts per billion (ppb). The maps below compare the current standard to the proposed standard of 60ppb. Advocates argued that health effects from ozone pollution are impactful at levels below the current standard. 
 
-![Ozone 70ppb map](o-seventy.png)
-![Ozone 60ppb map](o-sixty.png)
+![Ozone 70ppb map](o70.png)
+![Ozone 60ppb map](o60.png)
 
 The map of the 70ppb standard shows ozone reached unhealthy levels relatively infrequently. At most, ozone is at unhealthy levels an average of eight days over a three year period. When the 60ppb standard is used, daily ozone concentrations reaches unhealthy levels twice as many days or more over the same period. Both maps show proximity to Lake Michigan increases the likelihood of days with high ozone concentration.  
 Under the proposed 60ppb standard, air quality for sensitive populations would be considered unhealthy on moderate code yellow days on the Air Quality Index. Reducing exposure risk is about prevention, and a lower standard would allow everyone to make more informed decisions about their exposure risk. Still, the best way to reduce exposure risk is to clean the air. 
@@ -118,26 +114,20 @@ Pollutants released from vehicles are referred to as tailpipe emissions. In July
 
 Light duty vehicles make up the greatest share of daily vehicle miles, traveling  an average of 700,339 miles a day on Milwaukee County roads. Light-duty vehicles includes passenger vehicles, motorcycles, buses, and commercial trucks. Your commute to work is more than likely done in a light duty vehicle. 
 
-![[vmt_treemap.png|800]]
+![Treemap Daily Miles Traveled](treemap_vmt.png)
 
 More light duty electric vehicles on the road would reduce tailpipe emissions. However, despite making up the smallest share of daily miles traveled, heavy duty vehicles are the greatest emitters of tailpipe emissions on the road. In Milwaukee County, heavy duty vehicles travel an average of 31,631 miles a day, but are responsible for 54.8% of on-road emissions. Particle, nitrogen dioxide, and volatile organic compounds pollution are byproducts of combustion engines. Nitrogen dioxides and volatile organic compounds react with sunlight to form ground-level ozone, or smog. Particle pollution includes carcinogenic diesel particle pollution
 
-![nitrogen oxide emissions share in milwaukee county](treemap_nitrogenoxide.png)
+![Treemap Nitrogen Oxide Emissions](treemap_no2.png)
 
 
 
-![Vehicle kilometers traveled map](vkt_map.png)
+[Heavy Duty Vehicle Miles Traveled Interactive Map](https://strummonk.github.io/vmt-hdv-mke/docs/)
+![Heavy Duty Vehicle Miles Traveled Map](vmt_hdv_static.png)
 
 Exposure to tailpipe emissions is greatest in areas where distance traveled is greatest. Traffic emissions have a pose the most risk to those living near major highways and interstates. In Milwaukee County, heavy duty vehicles miles traveled is highest around I-43 and I-94, the Zoo Freeway and I-894.
 
 Traffic pollution poses a disproportionate burden on people of color and low-income communities Lindsay Heights, Midtown, Walker's Point and Oak Creek all sit in highest areas for heavy duty vehicle miles traveled.
-
-
-
-![[vmt_hdv_static.png]]
-
-
-
 
 Exposure risk is a multi-layered issues involving pollutant concentration, government regulation, emission sources and proximity to source points. Proximity to point source and mobile pollutant sources can increase your risk of exposure. Steps are being taken by the government to regulate and reduce pollution, but some groups believe it may not be enough. Individually, it's the small things that can make a big impact. Being aware of the exposure risks and how to prevent is the first step to reducing the harmful effects from air pollution. 
 
@@ -145,27 +135,27 @@ Exposure risk is a multi-layered issues involving pollutant concentration, gover
 
 Both criteria air pollutants and hazardous air pollutants are in the air we breathe everyday. Living or working near factories or heavy traffic increases your exposure to air pollution. Beyond proximity to pollution sources,  certain demographics are more at risk of health impacts that others.  Groups that most at risk for health impacts from air pollutant exposure are children, older adults, and Black Americans. 
 
-![Health Risk Map, Top Asthma][https://strummonk.github.io/health-asthma-mke/docs/]
+![Asthma Interactive Map](https://strummonk.github.io/health-asthma-mke/docs/)
 
 According to the Wisconsin Asthma Coalition, 1 in 11 adults and 1 in 12 children have asthma. In 2018, of those who died of asthma, 39% were 65 and older. Over a quarter of adults reported that they were unable to work due to their asthma in the same year. Over half of employed Wisconsin adults with asthma reported that their asthma was caused, or made worse by, exposures at work. 
 
-![Health Risk Map, Race and Asthma Overlay][https://strummonk.github.io/health-asthma-race-mke/docs/]
+![Race and Asthma Interactive Map](https://strummonk.github.io/health-asthma-race-mke/docs/)
 
 In Milwaukee, asthma rates for the entire county are most prevalent in the predominantly black Milwaukee neighborhoods of Lindsay Heights, Granville, Amani and Franklin Heights. Black children are the most likely group to be hospitalized due to asthma. There is no cure for asthma, but it can be controlled by avoiding the triggers that can cause an attack, such as mold, smoke, and pollution.
 
-COPD DATA
+![COPD Interactive Map](https://strummonk.github.io/health-copd-mke/docs/)
 
 Older adults are less able to endure the effects of air pollution. Poor air quality worsens the impacts of lung diseases, such as COPD, leading to increased hospitalization and emergency room visits. In 2023, Milwaukee County had 58.92 COPD related emergency room visits per 10,000 residents, a 33.7% increase over the state average. 
 
-COPD AND AGED 65 AND OVER MAP
+![COPD and aged 65 and over Interactive Map](https://strummonk.github.io/health-copd-age-mke/docs/)
 
 Statewide, women are more likely than men to go the emergency room or be hospitalized for COPD. Wisconsin also has an aging population, The U.S. Census Bureau estimates that nearly 26 percent of Wisconsin’s population will be 60 and older by the year 2030, or about 1.3 million people.
 
-CHD MAP
+![CHD Interactive Map](https://strummonk.github.io/health-ch-mke/docs/)
 
 Heart disease is the leading cause of death in Milwaukee County. Air pollution, particularly for PM2.5 can increase the risk of cardiovascular events. The EPA finds public health impacts from short and long-term PM2.5 exposure leads to an increase in hospitalizations for serious cardiovascular events such as coronary syndrome, arrhythmia, heart failure, stroke, and sudden cardiac death, particularly in people with established heart disease. 
 
-CHD and ADI Level
+![CHD and ADI Score](https://strummonk.github.io/health-ch-adi-mke/docs/)
 
 Exposure to fine particulate matter can cause heart palpitations, unusual fatigue, lightheadedness, shortness of breath, and chest, neck or shoulder pain. Air pollution levels are typically high near pollution sources like industrial areas and busy roadways, but people of color, older adults, and those of low socioeconomic status have increased risk of air pollution exposure. 
 
@@ -182,13 +172,10 @@ Checking air quality conditions is s simple as checking the weather forecast. Ai
 
 ![Diagram of Air Quality Index](aqi-diagram.png)
 
-<!-- Embed -->
-[AirNow](https://www.airnow.gov/?)
-
-Title: EPA’s AirNow
-
-subtitle: Make checking the AQI a daily habit. The EPA’s AirNow, available by web and app, reports air quality levels by zip code. 
-<!-- Embed -->
+> [!Embed]
+> [AirNow](https://www.airnow.gov/?)
+> Title: EPA’s AirNow
+> Subtitle: Make checking the AQI a daily habit. The EPA’s AirNow, available by web and app, reports air quality levels by zip code. 
 
 ## Minimize Exposure
 
