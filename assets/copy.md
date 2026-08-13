@@ -27,7 +27,7 @@ Six air pollutants are regulated by the EPA under the National Ambient Air Quali
 ### Particulate Matter (PM)
 
 - Point Source
-- Nonpoint Source
+- Nonpoint Source <br>
 Particulate matter is measured in micrometers, the two types of particulate matter, PM10 and PM2.5, are named for their size in micrometers. Both are invisible to the human eye. 
 
 ![PARTICLE SIZE DIAGRAM](micron-long.png) 
