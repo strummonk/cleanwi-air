@@ -136,7 +136,7 @@ Exposure risk is a multi-layered issues involving pollutant concentration, gover
 Both criteria air pollutants and hazardous air pollutants are in the air we breathe everyday. Living or working near factories or heavy traffic increases your exposure to air pollution. Beyond proximity to pollution sources,  certain demographics are more at risk of health impacts that others.  Groups that most at risk for health impacts from air pollutant exposure are children, older adults, and Black Americans. 
 
 [Asthma Interactive Map](https://strummonk.github.io/health-asthma-mke/docs/)
-![Health Map Astham](health_asthma_static.png)
+![Health Map Asthma](health_asthma_static.png)
 
 According to the Wisconsin Asthma Coalition, 1 in 11 adults and 1 in 12 children have asthma. In 2018, of those who died of asthma, 39% were 65 and older. Over a quarter of adults reported that they were unable to work due to their asthma in the same year. Over half of employed Wisconsin adults with asthma reported that their asthma was caused, or made worse by, exposures at work. 
 
