@@ -70,7 +70,7 @@ In Milwaukee County, high ozone level days tend to be greatest along Lake Michig
 
 Vehicle emissions are the greatest sector for emissions in Wisconsin, Fuel Evaporation and combustion releases volatile organic compounds, nitrogen dioxide and diesel particle pollution. Vehicle and equipment are considered mobile source pollution.
 
-![Static Map](cap_dpm-detail_static.png)
+![Static Map](cap_dpm-detail_static.png) <br>
 [DPM Detail Map](https://strummonk.github.io/cap-dpm/docs/) 
 
 Diesel particle pollution is emitted from the combustion of diesel fuel. Passenger vehicles, construction equipment, buses, and trucks can all be contributors. In the City of Milwaukee, diesel particle pollution levels  are highly concentrated at the Lake, Marquette and Hillside Interchanges.
@@ -84,10 +84,10 @@ Wind currents from Lake Michigan push air inland, and pressure and temperature c
 
 Both criteria air pollutants and hazardous air pollutants, or air toxics, make up the air we breathe. Exposure to air toxics comes from breathing contaminated air, ingesting contaminated water or fish, and through skin contact with contaminated soil, dust or water. There are over 100 pollutants classified as air toxics. These pollutants originate from outdoor sources like vehicles, and indoor sources like building materials and cleaning products. Primary emitters of air toxics are coal-fired power plants and factory smokestacks. Hazardous air pollutant emissions are reported by emitting facilities, but they are not regulated under national air quality standards.
 
-> [!Embed]
-> [Clean WI](https://www.cleanwisconsin.org/hazardous-air-pollutants-environmental-justice-in-wisconsin/)
-> Title: Hazardous Air Pollutants & Environmental Justice in Wisconsin
-> Subtitle: Click the link to read Clean Wisconsin's health brief about HAPs.
+> [!Embed] <br>
+> [Clean WI](https://www.cleanwisconsin.org/hazardous-air-pollutants-environmental-justice-in-wisconsin/) <br>
+> Title: Hazardous Air Pollutants & Environmental Justice in Wisconsin <br>
+> Subtitle: Click the link to read Clean Wisconsin's health brief about HAPs. <br>
 
 Hazardous air pollutants are known or suspected to cause cancer, birth defects, and damage to the immune, reproductive and respiratory systems. Mercury is a toxic air pollutant often found in contaminated fish and released from burning coal. Mercury never leaves the body once ingested or inhaled.  Other air toxics to be aware of include asbestos, formaldehyde, and lead compounds.
 
