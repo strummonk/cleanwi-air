@@ -1,5 +1,5 @@
 
-# AIR POLLUTION in Milwaukee County
+# AIR POLLUTION IN MILWAUKEE COUNTY
 
 Summary: Clean air is critical to good health. Reducing pollution exposure is the best thing you can do for your health and your loved ones.
 
