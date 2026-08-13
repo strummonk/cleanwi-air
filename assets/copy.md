@@ -65,7 +65,7 @@ Each pollutant has its own regulatory standard and monitoring period. For exampl
 
 In Milwaukee County, high ozone level days tend to be greatest along Lake Michigan. Ozone levels typically rise when temperature is warm.  We’re most likely to see high ozone level days during the hottest months of the year, between May and September.
 
-[Map DPM only](https://strummonk.github.io/cap-dpm-full/docs/)
+[Map DPM only](https://strummonk.github.io/cap-dpm-full/docs/) <br>
 ![Static Map](cap_dpm_static.png)
 
 Vehicle emissions are the greatest sector for emissions in Wisconsin, Fuel Evaporation and combustion releases volatile organic compounds, nitrogen dioxide and diesel particle pollution. Vehicle and equipment are considered mobile source pollution.
