@@ -135,27 +135,34 @@ Exposure risk is a multi-layered issues involving pollutant concentration, gover
 
 Both criteria air pollutants and hazardous air pollutants are in the air we breathe everyday. Living or working near factories or heavy traffic increases your exposure to air pollution. Beyond proximity to pollution sources,  certain demographics are more at risk of health impacts that others.  Groups that most at risk for health impacts from air pollutant exposure are children, older adults, and Black Americans. 
 
-![Asthma Interactive Map](https://strummonk.github.io/health-asthma-mke/docs/)
+[Asthma Interactive Map](https://strummonk.github.io/health-asthma-mke/docs/)
+![Health Map Astham](health_asthma_static.png)
 
 According to the Wisconsin Asthma Coalition, 1 in 11 adults and 1 in 12 children have asthma. In 2018, of those who died of asthma, 39% were 65 and older. Over a quarter of adults reported that they were unable to work due to their asthma in the same year. Over half of employed Wisconsin adults with asthma reported that their asthma was caused, or made worse by, exposures at work. 
 
-![Race and Asthma Interactive Map](https://strummonk.github.io/health-asthma-race-mke/docs/)
+[Race and Asthma Interactive Map](https://strummonk.github.io/health-asthma-race-mke/docs/)
+![Health Map Black Population and Asthma Overlay](health_asthma_race_static.png)
 
 In Milwaukee, asthma rates for the entire county are most prevalent in the predominantly black Milwaukee neighborhoods of Lindsay Heights, Granville, Amani and Franklin Heights. Black children are the most likely group to be hospitalized due to asthma. There is no cure for asthma, but it can be controlled by avoiding the triggers that can cause an attack, such as mold, smoke, and pollution.
 
-![COPD Interactive Map](https://strummonk.github.io/health-copd-mke/docs/)
+[COPD Interactive Map](https://strummonk.github.io/health-copd-mke/docs/)
+![Health Map COPD](health_copd_static.png)
 
 Older adults are less able to endure the effects of air pollution. Poor air quality worsens the impacts of lung diseases, such as COPD, leading to increased hospitalization and emergency room visits. In 2023, Milwaukee County had 58.92 COPD related emergency room visits per 10,000 residents, a 33.7% increase over the state average. 
 
-![COPD and aged 65 and over Interactive Map](https://strummonk.github.io/health-copd-age-mke/docs/)
+[COPD and aged 65 and over Interactive Map](https://strummonk.github.io/health-copd-age-mke/docs/)
+![Health Map Senior Population and COPD Overlay](health_copd_65_static.png)
 
 Statewide, women are more likely than men to go the emergency room or be hospitalized for COPD. Wisconsin also has an aging population, The U.S. Census Bureau estimates that nearly 26 percent of Wisconsin’s population will be 60 and older by the year 2030, or about 1.3 million people.
 
-![CHD Interactive Map](https://strummonk.github.io/health-ch-mke/docs/)
+[CHD Interactive Map](https://strummonk.github.io/health-ch-mke/docs/)
+![Health Map CHD](health_chd_static.png)
 
 Heart disease is the leading cause of death in Milwaukee County. Air pollution, particularly for PM2.5 can increase the risk of cardiovascular events. The EPA finds public health impacts from short and long-term PM2.5 exposure leads to an increase in hospitalizations for serious cardiovascular events such as coronary syndrome, arrhythmia, heart failure, stroke, and sudden cardiac death, particularly in people with established heart disease. 
 
-![CHD and ADI Score](https://strummonk.github.io/health-ch-adi-mke/docs/)
+[CHD and ADI Score Interactive Map](https://strummonk.github.io/health-ch-adi-mke/docs/)
+![Health Map ADI Score and CHD Overlay](health_chd_adi_static.png)
+
 
 Exposure to fine particulate matter can cause heart palpitations, unusual fatigue, lightheadedness, shortness of breath, and chest, neck or shoulder pain. Air pollution levels are typically high near pollution sources like industrial areas and busy roadways, but people of color, older adults, and those of low socioeconomic status have increased risk of air pollution exposure. 
 
@@ -172,10 +179,10 @@ Checking air quality conditions is s simple as checking the weather forecast. Ai
 
 ![Diagram of Air Quality Index](aqi-diagram.png)
 
-> [!Embed]
-> [AirNow](https://www.airnow.gov/?)
-> Title: EPA’s AirNow
-> Subtitle: Make checking the AQI a daily habit. The EPA’s AirNow, available by web and app, reports air quality levels by zip code. 
+> [!Embed] <br>
+> [AirNow](https://www.airnow.gov/?) <br>
+> Title: EPA’s AirNow <br>
+> Subtitle: Make checking the AQI a daily habit. The EPA’s AirNow, available by web and app, reports air quality levels by zip code. <br>
 
 ## Minimize Exposure
 
