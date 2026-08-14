@@ -68,7 +68,7 @@ In Milwaukee County, high ozone level days tend to be greatest along Lake Michig
 [Map DPM only](https://strummonk.github.io/cap-dpm-full/docs/) <br>
 ![Static Map](cap_dpm_static.png)
 
-Vehicle emissions are the greatest sector for pollution emissions in Wisconsin. Fuel Evaporation and combustion releases volatile organic compounds, nitrogen dioxide and diesel particle pollution. Vehicle and equipment are considered mobile source pollution.
+Vehicle emissions are the greatest sector for pollution emissions in Wisconsin. Fuel Evaporation and combustion releases volatile organic compounds, nitrogen dioxide and diesel particle pollution. Vehicle and equipment emissions are considered mobile source pollution.
 
 ![Static Map](cap_dpm-detail_static.png) <br>
 [DPM Detail Map](https://strummonk.github.io/cap-dpm/docs/) 
