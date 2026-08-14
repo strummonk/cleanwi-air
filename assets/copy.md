@@ -10,7 +10,7 @@ Description: Health risks from air pollutants can change based on who you are, w
 
 # Air Pollutants
 
-Clean air is critical to good health. Air quality is determined by the amount of air pollutants in the atmosphere, and changes frequently--not only every day but sometimes every hour. Certain pollutants, known as criteria pollutants, are measured, reported, and monitored on the national scale. There are only six criteria pollutants and hundreds of other hazardous air pollutants. What’s in the air we breathe is affected by our geography, the time of year, and proximity to source points. 
+Clean air is critical to good health. Air quality is determined by the amount of air pollutants in the atmosphere, and changes frequently--not only every day but sometimes every hour. Certain pollutants, known as criteria pollutants, are measured, reported, and monitored on the national scale. There are only six criteria pollutants and hundreds of other hazardous air pollutants. What’s in the air we breathe is affected by our geography, the time of year, and proximity to pollution source points. 
 
 ## Point Source and Nonpoint Source Pollution
 
