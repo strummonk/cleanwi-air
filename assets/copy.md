@@ -16,7 +16,7 @@ Clean air is critical to good health. Air quality is determined by the amount of
 
 A rush of wheels and the blare of horns on the highway at rush hour, a garbage truck hitting a bump in the road, smokestacks billowing over the river, and the crashing sound of a pile driver. Point sources of pollution can be seen or heard, but its effects are often invisible and not felt immediately.
 
-There are two main types of pollution sources: point sources and nonpoint sources. Point sources are single, stationary places, like smokestacks. Nonpoint sources are everything that can’t be attributed to a single source. Traffic emissions are a result of many vehicles. Wildfire smoke comes from hundreds or thousands of miles way on the air. Because nonpoint pollution can’t be pinpointed to one source, it is much more difficult to control or regulate than point source pollution.
+There are two main types of pollution sources: point sources and nonpoint sources. Point sources are single, stationary places, like smokestacks. Nonpoint sources are everything that can’t be attributed to a single source. Traffic emissions are a result of many vehicles. Wildfire smoke comes from hundreds or thousands of miles away on the air. Because nonpoint pollution can’t be pinpointed to one source, it is much more difficult to control or regulate than point source pollution.
 
 Pollutants can be emitted from either point or nonpoint sources. Living or working point or nonpoint polution sources can increase your risk of exposure to certain pollutants. 
 
