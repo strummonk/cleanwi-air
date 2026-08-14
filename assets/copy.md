@@ -106,7 +106,7 @@ A standard does not necessarily mean a healthy limit. In 2015, organizations lik
 ![Ozone 60ppb map](o60.png)
 
 The map of the 70ppb standard shows ozone reached unhealthy levels relatively infrequently. At most, ozone is at unhealthy levels an average of eight days over a three year period. When the 60ppb standard is used, daily ozone concentrations reaches unhealthy levels twice as many days or more over the same period. Both maps show proximity to Lake Michigan increases the likelihood of days with high ozone concentration.  
-Under the proposed 60ppb standard, air quality for sensitive populations would be considered unhealthy on moderate code yellow days on the Air Quality Index. Reducing exposure risk is about prevention, and a lower standard would allow everyone to make more informed decisions about their exposure risk. Still, the best way to reduce exposure risk is to clean the air. 
+Under the proposed 60ppb standard, air quality for sensitive populations would be considered unhealthy at a lower level on the Air Quality Index. Reducing exposure risk is about prevention, and a lower standard would allow everyone to make more informed decisions about their exposure risk. Still, the best way to reduce exposure risk is to clean the air. 
 
 ## Reducing Emissions
 
