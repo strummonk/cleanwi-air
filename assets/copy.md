@@ -91,7 +91,7 @@ Both criteria air pollutants and hazardous air pollutants, or air toxics, make u
 
 Hazardous air pollutants are known or suspected to cause cancer, birth defects, and damage to the immune, reproductive and respiratory systems. Mercury is a toxic air pollutant often found in contaminated fish and released from burning coal. Mercury never leaves the body once ingested or inhaled.  Other air toxics to be aware of include asbestos, formaldehyde, and lead compounds.
 
-There are two main types of air pollutants. Criteria air pollutants and hazardous air pollutants. Criteria air pollutants like particulate matter, ground-level ozone and nitrogen dioxide are reported by major cities and are nationally regulated. Hazardous air pollutants, or air toxics, are not nationally regulated but are reported by emitting facilities. Both types of pollutants can come from stationary sources, like factories, called point sources, or from mobile sources, like vehicles. Exposure to pollutants in Milwaukee County is based on geography, temperature, weather, and your proximity to pollution sources, and where you live.
+There are two main types of air pollutants. Criteria air pollutants and hazardous air pollutants. Criteria air pollutants like particulate matter, ground-level ozone and nitrogen dioxide are reported by major cities and are nationally regulated. Hazardous air pollutants, or air toxics, are not nationally regulated but are reported by emitting facilities. Both types of pollutants can come from stationary sources, like factories, called point sources, or from mobile sources, like vehicles. Exposure to pollutants in Milwaukee County is based on geography, temperature, weather, and your proximity to pollution sources.
 
 
 # Regulation
