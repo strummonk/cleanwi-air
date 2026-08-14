@@ -1,12 +1,12 @@
 
 # AIR POLLUTION IN MILWAUKEE COUNTY
 
-Summary: Clean air is critical to good health. Reducing pollution exposure is the best thing you can do for your health and your loved ones.
+Summary: Air quality directly impacts your health. Reducing pollution exposure is the best way to protect yourself and your loved ones.
 
 > [!Navigation] <br>
 > **Air Pollutants**  **Our Health**  **Regulation**  **What You Can Do** <!--These correspond to H1 headings-->
  
-Description: Health risks from air pollutants can change based on who you are, where you live, and your proximity to point sources of air pollution. Exposure to different pollutants is associated with increases in risk to different health conditions, most of which affect the respiratory system. Industrial plants, construction projects, and road traffic are major point sources of air pollution. Knowing your exposure risks and and how to reduce and prevent pollution exposure is the best thing you can do for the health of yourself and your loved ones. 
+Description: Health risks from air pollutants can change based on who you are, where you live, and your existing health conditions. Exposure to different pollutants is associated with increases in risk to different health conditions, most of which affect the respiratory system. Industrial plants, construction projects, and road traffic are major point sources of air pollution. Knowing your exposure risks and and how to reduce and prevent pollution exposure is the best thing you can do for the health of yourself and your loved ones.
 
 # Air Pollutants
 
@@ -148,7 +148,7 @@ In Milwaukee, asthma rates for the entire county are most prevalent in the predo
 [COPD Interactive Map](https://strummonk.github.io/health-copd-mke/docs/) <br>
 ![Health Map COPD](health_copd_static.png)
 
-Older adults are less able to endure the effects of air pollution. Poor air quality worsens the impacts of lung diseases, such as COPD, leading to increased hospitalization and emergency room visits. In 2023, Milwaukee County had 58.92 COPD related emergency room visits per 10,000 residents, a 33.7% increase over the state average. 
+Older adults are less able to endure the effects of air pollution. Poor air quality from smog, traffic congestion and wildfire smoke worsens the impacts of lung diseases, such as COPD, leading to increased hospitalization and emergency room visits. In 2023, Milwaukee County had 58.92 COPD related emergency room visits per 10,000 residents, a 33.7% increase over the state average. 
 
 [COPD and aged 65 and over Interactive Map](https://strummonk.github.io/health-copd-age-mke/docs/) <br>
 ![Health Map Senior Population and COPD Overlay](health_copd_65_static.png)
