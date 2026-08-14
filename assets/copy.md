@@ -133,7 +133,7 @@ Exposure risk is a multi-layered issues involving pollutant concentration, gover
 
 # Our Health
 
-Both criteria air pollutants and hazardous air pollutants are in the air we breathe everyday. Living or working near factories or heavy traffic increases your exposure to air pollution. Beyond proximity to pollution sources,  certain demographics are more at risk of health impacts that others.  Groups that most at risk for health impacts from air pollutant exposure are children, older adults, and Black Americans. 
+Both criteria air pollutants and hazardous air pollutants are in the air we breathe everyday. Wildfire smoke, living or working near factories or highways increases your exposure to air pollution. Certain demographics are also more at risk of health impacts that others. 
 
 [Asthma Interactive Map](https://strummonk.github.io/health-asthma-mke/docs/) <br>
 ![Health Map Asthma](health_asthma_static.png)
