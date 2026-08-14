@@ -22,7 +22,7 @@ Pollutants can be emitted from either point or nonpoint sources. Living or worki
 
 ## Criteria Air Pollutants
 
-Six air pollutants are regulated by the EPA under the National Ambient Air Quality Standard to protect environmental and public health. The six criteria air pollutants are sulfur dioxide, carbon monoxide, nitrogen dioxide particulate matters, and ozon,e.  The three most common in urban areas are particulate matter, ozone and nitrogen dioxide.
+Six air pollutants are regulated by the EPA under the National Ambient Air Quality Standard to protect environmental and public health. The six criteria air pollutants are sulfur dioxide, lead, carbon monoxide, nitrogen dioxide, particulate matters, and ozone.  The three most common in urban areas are particulate matter, ozone and nitrogen dioxide.
 
 ### Particulate Matter (PM)
 
@@ -52,7 +52,7 @@ Ground-level ozone (O3), known as smog, is formed by the reaction between sunlig
 
 - Non Point Source
 
-Nitrogen oxides are combustion byproducts, primarily released from vehicle emissions. Nitrogen dioxide (NO2) is a criteria pollutant under the nitrogen oxide pollutant class. Nitrogen dioxide is a contributor to ground-level ozone and  tends to be highest near heavily traveled roadways. In the home, appliances such as stoves, dryers and space heaters that run on gas can produce unhealthy amounts of NO2 if appliances are not properly vented outdoors. 
+Nitrogen oxides are combustion byproducts, primarily released from vehicle emissions. Nitrogen dioxide is a contributor to ground-level ozone and  tends to be highest near heavily traveled roadways. In the home, appliances such as stoves, dryers and space heaters that run on gas can produce unhealthy amounts of NO2 if appliances are not properly vented outdoors. 
 
 [Air Quality Data Map](https://strummonk.github.io/cap-map/docs/)
 ![Static Map](cap_overall_static.png) 
