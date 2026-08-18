@@ -91,6 +91,10 @@ Both criteria air pollutants and hazardous air pollutants, or air toxics, make u
 
 Hazardous air pollutants are known or suspected to cause cancer, birth defects, and damage to the immune, reproductive and respiratory systems. Mercury is a toxic air pollutant often found in contaminated fish and released from burning coal. Mercury never leaves the body once ingested or inhaled.  Other air toxics to be aware of include asbestos, formaldehyde, and lead compounds.
 
+The EPA's Risk Screening Environmental Indicators (RSEI) is a tool for estimating potential pollution levels. The RSEI evaluates HAPs from facility emissions and considers the pollutants' emission size, relative toxicity, transportation and lifecycle, as well as the size of potentially exposed populations. RSEI scores to do not estimate risk, but are a way to begin identifying areas of concern for pollution impacts. St Francis, Oak Creek and the City of Milwaukee neighborhoods of Polonia and Bayview show the highest RSEI scores in the county. Six industrial facilities are sited in the high-score areas. The EPA's Toxic Release Inventory shows the criteria air pollutants PM2.5, PM10, and Sulfur Dioxide and Carbon Monoxide as the most commonly emitted criteria air pollutants, and elemental carbon, nickel and ammonia as the most commonly emitted HAPs. Ammonia contributes to smog. The National Cancer Institute lists nickel compounds as a risk factor in nasal and lung cancer, and ammonia. Elemental carbon is a foundational component of diesel particulate matter. 
+
+- - -
+
 There are two main types of air pollutants. Criteria air pollutants and hazardous air pollutants. Criteria air pollutants like particulate matter, ground-level ozone and nitrogen dioxide are reported by major cities and are nationally regulated. Hazardous air pollutants, or air toxics, are not nationally regulated but are reported by emitting facilities. Both types of pollutants can come from stationary sources, like factories, called point sources, or from mobile sources, like vehicles. Exposure to pollutants in Milwaukee County is based on geography, temperature, weather, and your proximity to pollution sources.
 
 
@@ -238,6 +242,7 @@ References
 - https://county.milwaukee.gov/files/county/DHHS/Older-Adults/Age-Friendly-Communities/Health-Data.pdf
 - https://www.epa.gov/ozone-pollution-and-your-patients-health/patient-exposure-and-air-quality-index
 - https://www.dhs.wisconsin.gov/epht/profile.htm
+- https://www.epa.gov/rsei/understanding-rsei-results
 - https://www.dhs.wisconsin.gov/epht/copd.htm
 - https://www.epa.gov/air-research/air-pollution-and-cardiovascular-disease-basics
 - https://www.epa.gov/system/files/documents/2023-06/hd-phase3-publ-hear-trans-2023-05-02-day1.pdf
