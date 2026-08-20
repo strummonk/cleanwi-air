@@ -63,6 +63,8 @@ Each pollutant has its own regulatory standard and monitoring period. For exampl
 ![Static Map](cap_pm_static.png)
 [PM2.5 Map](https://strummonk.github.io/cap-pm/docs/)
 
+The highest annual average for PM2.5 is centered around the Root River Parkway, just north of the Hale Interchange. PM2.5 levels however is fairly consistent across the county, and never exceed the annual standard.
+
 ![Static Map](cap_dpm-detail_static.png) <br>
 [DPM Detail Map](https://strummonk.github.io/cap-dpm/docs/) 
 
