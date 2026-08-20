@@ -60,6 +60,14 @@ Nitrogen oxides are combustion byproducts, primarily released from vehicle emiss
 
 Each pollutant has its own regulatory standard and monitoring period. For example,  PM2.5 and PM10 are reported every twenty-four hours, and the regulatory standard for each is 35ug/m3. Ozone levels are reported every eight hours, and the regulatory standard is 70ppb (parts per billion).
 
+![Static Map](cap_pm_static.png)
+[PM2.5 Map](https://strummonk.github.io/cap-pm/docs/)
+
+![Static Map](cap_dpm-detail_static.png) <br>
+[DPM Detail Map](https://strummonk.github.io/cap-dpm/docs/) 
+
+Diesel particle pollution is emitted from the combustion of diesel fuel. Passenger vehicles, construction equipment, buses, and trucks can all be contributors. In the City of Milwaukee, diesel particle pollution levels  are highly concentrated at the Lake, Marquette and Hillside Interchanges.
+
 [Map Ozone Layer Only](https://strummonk.github.io/cap-ozone/docs/)
 ![Static Map](cap_ozone_static.png)
 
@@ -70,12 +78,7 @@ In Milwaukee County, high ozone level days tend to be greatest along Lake Michig
 
 Vehicle emissions are the greatest sector for pollution emissions in Wisconsin. Fuel Evaporation and combustion releases volatile organic compounds, nitrogen dioxide and diesel particle pollution. Vehicle and equipment emissions are considered mobile source pollution.
 
-![Static Map](cap_dpm-detail_static.png) <br>
-[DPM Detail Map](https://strummonk.github.io/cap-dpm/docs/) 
-
-Diesel particle pollution is emitted from the combustion of diesel fuel. Passenger vehicles, construction equipment, buses, and trucks can all be contributors. In the City of Milwaukee, diesel particle pollution levels  are highly concentrated at the Lake, Marquette and Hillside Interchanges.
-
-[Top census tracts](https://strummonk.github.io/cap-toptracts/docs/) <br>
+[Top census tracts](https://strummonk.github.io/cap-toptracts/docs/) <br> <!-- map shows NO2 -->
 ![Top Census Tracts](cap_toptracts_static.png)
 
 Wind currents from Lake Michigan push air inland, and pressure and temperature changes trap polluted air close to the ground. Census tracts with the highest average reported pollution levels are clustered inland around I-43 at Locust St and west along Lisbon Ave in the Harambee, Lindsay Heights, Midtown and Old Bronzeville neighborhoods. Nitrogen dioxide levels in these tracts are particularly high. 
