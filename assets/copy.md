@@ -54,12 +54,14 @@ Ground-level ozone (O3), known as smog, is formed by the reaction between sunlig
 
 Nitrogen oxides are combustion byproducts, primarily released from vehicle emissions. Nitrogen dioxide is a contributor to ground-level ozone and  tends to be highest near heavily traveled roadways. In the home, appliances such as stoves, dryers and space heaters that run on gas can produce unhealthy amounts of NO2 if appliances are not properly vented outdoors. 
 
-Each pollutant has its own regulatory standard and monitoring period. For example,  PM2.5 and PM10 are reported every twenty-four hours, and the regulatory standard for each is 35ug/m3. Ozone levels are reported every eight hours, and the regulatory standard is 70ppb (parts per billion). Pollution levels vary for by area and pollutant across Milwaukee County.
+## Air Quality in Milwaukee County
+
+Each criteria air pollutant has its own regulatory standard and monitoring period. PM2.5 and PM10 are reported every twenty-four hours, and the regulatory standard for each is 35ug/m3. Ozone levels are reported every eight hours, and the regulatory standard is 70ppb (parts per billion). Pollution levels vary for by area and by pollutant across Milwaukee County.
 
 ![Static Map](cap_pm_static.png)
 [PM2.5 Map](https://strummonk.github.io/cap-pm/docs/)
 
-The highest annual average for PM2.5 is centered around the Root River Parkway, just north of the Hale Interchange. PM2.5 levels however is fairly consistent across the county, and never exceed the annual standard.
+The area with the highest annual average PM2.5 levels are centered around the Root River Parkway, just north of the Hale Interchange. PM2.5 levels, however, show low variation across the county, and did not exceed the annual standard between 2020  and 2022.
 
 ![Static Map](cap_dpm-detail_static.png) <br>
 [DPM Detail Map](https://strummonk.github.io/cap-dpm/docs/) 
