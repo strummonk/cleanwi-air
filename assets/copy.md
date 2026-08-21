@@ -54,11 +54,7 @@ Ground-level ozone (O3), known as smog, is formed by the reaction between sunlig
 
 Nitrogen oxides are combustion byproducts, primarily released from vehicle emissions. Nitrogen dioxide is a contributor to ground-level ozone and  tends to be highest near heavily traveled roadways. In the home, appliances such as stoves, dryers and space heaters that run on gas can produce unhealthy amounts of NO2 if appliances are not properly vented outdoors. 
 
-[Air Quality Data Map](https://strummonk.github.io/cap-map/docs/)
-![Static Map](cap_overall_static.png) 
-
-
-Each pollutant has its own regulatory standard and monitoring period. For example,  PM2.5 and PM10 are reported every twenty-four hours, and the regulatory standard for each is 35ug/m3. Ozone levels are reported every eight hours, and the regulatory standard is 70ppb (parts per billion).
+Each pollutant has its own regulatory standard and monitoring period. For example,  PM2.5 and PM10 are reported every twenty-four hours, and the regulatory standard for each is 35ug/m3. Ozone levels are reported every eight hours, and the regulatory standard is 70ppb (parts per billion). Pollution levels vary for by area and pollutant across Milwaukee County.
 
 ![Static Map](cap_pm_static.png)
 [PM2.5 Map](https://strummonk.github.io/cap-pm/docs/)
